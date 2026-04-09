@@ -1,0 +1,10 @@
+body{
+    background-color: yellow;
+}
+#background_image{
+    background-image: url("https://picsum.photos/1200/800");
+    background-position: center;
+    background-size: 200px;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
