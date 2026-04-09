@@ -1,0 +1,19 @@
+.card {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    width: 220px;
+}
+.card img {
+    width: 100px;
+    height: 100px;
+    border: 20px;
+}
+.card h3 {
+    margin: 10px 0 5px;
+}
+.price {
+    color: #09f557;
+    font-weight: bold;
+}
